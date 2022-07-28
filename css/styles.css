@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: 
+      url(https://gallery.yopriceville.com/var/albums/Abstract/rainbow-background.jpg?m=1399676400);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: 'Lobster Two', cursive;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 a{
+    color: #a2a2bf;
+}
+
+img {
+    display: block;
+    margin:auto;
+    width: auto;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
